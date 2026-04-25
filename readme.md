@@ -1,5 +1,5 @@
 # RAG Documentation
-This repository consists basics of RAG concept including Data Loading, 
+This repository consists basics of RAG concept including Data Loading, Splitting, Embedding and storing.
 
 ## Data Loading
 
@@ -109,3 +109,4 @@ store = Chroma.from_texts(
 - `data_load.ipynb` - How to Load Data
 - `split.ipynb` - Split Loaded Data
 - `embedding.ipynb` - Embeddings of Loaded Data and how to store Data in Vector Db 
+S
